@@ -1,0 +1,11 @@
+openai
+gorilla-cli
+streamlit
+transformers
+tensorflow
+langchain
+torch
+torchvideo
+torchaudio
+jupyter
+jupyterlab
